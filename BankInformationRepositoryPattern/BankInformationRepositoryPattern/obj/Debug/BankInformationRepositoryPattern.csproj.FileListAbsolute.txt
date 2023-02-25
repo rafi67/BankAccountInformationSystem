@@ -1,0 +1,8 @@
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\bin\Debug\BankInformationRepositoryPattern.exe.config
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\bin\Debug\BankInformationRepositoryPattern.exe
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\bin\Debug\BankInformationRepositoryPattern.pdb
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\obj\Debug\BankInformationRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\obj\Debug\BankInformationRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\obj\Debug\BankInformationRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\obj\Debug\BankInformationRepositoryPattern.exe
+C:\Users\rafis\Desktop\1273013\VS 2022\BankInformationRepositoryPattern\BankInformationRepositoryPattern\obj\Debug\BankInformationRepositoryPattern.pdb
